@@ -1,2 +1,2 @@
-# Tutorposi
+print ("hello world")
 -
